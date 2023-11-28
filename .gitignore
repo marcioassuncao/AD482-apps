@@ -1,1 +1,2 @@
 kafka-topics/target/**
+kafka-producers/target/**
