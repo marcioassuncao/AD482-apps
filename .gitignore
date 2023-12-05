@@ -1,3 +1,4 @@
 kafka-topics/target/**
 kafka-producers/target/**
 kafka-schemas/target/**
+kafka-consumers/target/**
