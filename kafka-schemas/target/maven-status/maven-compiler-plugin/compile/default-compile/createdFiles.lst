@@ -1,0 +1,8 @@
+com/redhat/training/bank/resource/AccountResource$ErrorMapper.class
+com/redhat/training/bank/model/BankAccount.class
+com/redhat/training/bank/consumer/NewBankAccountConsumer.class
+com/redhat/training/bank/command/DepositAmountInBankAccount.class
+com/redhat/training/bank/message/NewBankAccount.class
+com/redhat/training/bank/message/NewBankAccount$Builder.class
+com/redhat/training/bank/resource/AccountResource.class
+com/redhat/training/bank/command/WithdrawAmountFromBankAccount.class
