@@ -4,3 +4,4 @@ kafka-basics/target/**
 kafka-schemas/target/**
 kafka-consumers/target/**
 streams-interaction/target/**
+streams-data/target/**
