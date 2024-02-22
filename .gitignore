@@ -8,3 +8,4 @@ streams-data/target/**
 streams-building/target/**
 collaboration-stateless/target/**
 collaboration-stateful/target/**
+collaboration-partition/target/**
