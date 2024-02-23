@@ -9,3 +9,4 @@ streams-building/target/**
 collaboration-stateless/target/**
 collaboration-stateful/target/**
 collaboration-partition/target/**
+collaboration-async/target/**
