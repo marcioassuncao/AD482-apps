@@ -12,3 +12,4 @@ collaboration-partition/target/**
 collaboration-async/target/**
 connect-cluster/target/**
 troubleshooting-duplication/target/**
+troubleshooting-apps/target/**

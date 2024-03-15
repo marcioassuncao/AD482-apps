@@ -1,0 +1,10 @@
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/movement/tracker/VehicleMovementTracker.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/inventory/Vehicle.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/movement/tracker/VehicleMetricsResource.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/movement/tracker/VehicleStatus.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/inventory/InvalidVehicleException.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/events/VehicleRegistered.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/inventory/VehicleInventory.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/movement/tracker/VehicleMetrics.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/events/VehicleMoved.java
+/home/student/AD482/troubleshooting-test/src/main/java/com/redhat/vehicles/inventory/VehicleResource.java
