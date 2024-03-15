@@ -1,0 +1,6 @@
+com/redhat/energy/Turbine.class
+com/redhat/energy/TurbineDataProducerApp.class
+com/redhat/energy/ClassroomConfig.class
+com/redhat/energy/PowerMeasurementsEmitter$1.class
+com/redhat/energy/PowerMeasurementsEmitter.class
+com/redhat/energy/TurbineData.class
